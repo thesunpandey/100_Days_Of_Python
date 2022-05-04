@@ -1,6 +1,10 @@
 # 100_Days_Of_Python
-Mastering Python by building 100 projects in 100 days. Learning data science, automation, building websites, games and apps.!
+Mastered Python by building 100 projects in 100 days. 
+
+Learnt data science, automation, websites building, games and apps.!
+
 100 days, 1 hour per day, learnt to build 1 project per day.
+
 Throughout this comprehensive course, I covered a massive amount of tools and technologies, including:
 
 Python 3 - the latest version of Python
